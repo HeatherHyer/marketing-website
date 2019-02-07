@@ -113,12 +113,13 @@ nav a {
 }
 
 .box-1 {
+	background-image: url("../images/bike2.jpg");
+	background-repeat: no-repeat;
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-end;
 	width: 425px;
   height: 340px;
-	background: #fdaa5b;
 	color: white;
 	padding: 20px;
 }
